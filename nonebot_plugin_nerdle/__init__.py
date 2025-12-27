@@ -49,7 +49,7 @@ __plugin_meta__ = PluginMetadata(
         f"等式长度区间：6~10"
     ),
     type="application",
-    homepage="?",
+    homepage="https://github.com/Lovable-xlz/nonebot_plugin_nerdle",
     supported_adapters=inherit_supported_adapters(
         "nonebot_plugin_alconna", "nonebot_plugin_uninfo"
     ),
