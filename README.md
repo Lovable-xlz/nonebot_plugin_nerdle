@@ -43,4 +43,4 @@ nonebot-plugin-nerdle = ["nonebot_plugin_nerdle"]
 ## cpp 文件说明
 `Generator.cpp` 和 `Generator(V2).cpp` 为在同目录下生成 `dic-*.json` 文件的代码，V2 做了部分逻辑上的优化（虽然效率并没有增加）。
 
-`Checker.cpp` 实现了寻找字符全覆盖的等式对，运行前请确保同目录下存在 `dic-8.json` 文件。
+`Checker.cpp` 实现了寻找字符全覆盖的等式对，运行前请确保同目录下存在 `dic-8.json` 文件，运行结果为上传文件中的 `equ.txt`。
